@@ -1,6 +1,8 @@
 # CSS Font Size Clamp Builder
 
-Originally created by [codesandbox.io/u/pprg1996](https://codesandbox.io/u/pprg1996).
+View here: [codesandbox.io/s/github/scottnunemacher/css-font-size-clamp-builder](https://codesandbox.io/s/github/scottnunemacher/css-font-size-clamp-builder)
+
+Originally created by: [codesandbox.io/u/pprg1996](https://codesandbox.io/u/pprg1996)
 
 ## Style Notes for CSS Font-Size Clamp Builder
 
