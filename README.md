@@ -10,7 +10,7 @@ Some example h1-h6 heading settings to create good resizable headers between the
 
 ***NOTE:*** These settings use the "62.5% font-size trick". If you are not using `html {font-size: 62.5%;}` in your CSS then change each `1rem equals (px)` value to `16` as missing this adjustment will greatly change your font size outputs.
 
-### H1 Header
+### Settings
 
 |Field|h1|h2|h3|h4|h5|h6|
 |---|---|---|---|---|---|---|
