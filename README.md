@@ -8,7 +8,7 @@ Originally created by: [codesandbox.io/u/pprg1996](https://codesandbox.io/u/pprg
 
 Some example h1-h6 heading settings to create good resizable headers between the viewport sizes of 479 and 1200.
 
-***NOTE:*** These settings use the "62.5% font-size trick". If you are not using `html {font-size: 62.5%;}` in your CSS then change each `1rem equals (px)` value to `16` as missing this adjustment will greatly change your font size outputs.
+***NOTE:*** These settings use the "62.5% font-size trick". If you are not using `html {font-size: 62.5%;}` in your CSS then change each `1rem equals (px)` value to `16` and change Min-Max font sizes accordingly. Missing these adjustments will greatly change your font size outputs.
 
 ### Settings
 
